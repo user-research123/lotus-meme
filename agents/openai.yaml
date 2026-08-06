@@ -1,0 +1,4 @@
+interface:
+  display_name: "莲花土味表情包生成器"
+  short_description: "通过四款背景单选和重点词输入生成大红大紫长辈风格表情包图片"
+  default_prompt: "使用 $lotus-meme-github 制作：我们什么时候+开组会+呢。"
